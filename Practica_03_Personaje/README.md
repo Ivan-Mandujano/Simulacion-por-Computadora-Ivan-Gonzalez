@@ -1,4 +1,5 @@
 # Practica 03 - Creación de un personaje
+## De Iván Mandujano González Moreno
 Para esta actividad modele una Jirafa Lowpoly en Blender
 ## **Capturas de la jirafa**
 La vista de lado:
