@@ -1,4 +1,4 @@
-#Practica 03 - Creación de un personaje
+# Practica 03 - Creación de un personaje
 Para esta actividad modele una Jirafa Lowpoly en Blender
 ## **Capturas de la jirafa**
 La vista de lado:

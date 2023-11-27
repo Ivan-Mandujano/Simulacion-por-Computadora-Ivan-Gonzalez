@@ -10,3 +10,11 @@ Vista general al diorama:
 ![La piramide vista de lado](Practica_02_Diorama/Diorama1.png)
 Diorama desde cerca:
 ![Piramide vista desde arriba](Practica_02_Diorama/Diorama2.png)
+## **Práctica 3: Personaje**
+Jirafa hecha en blender
+Jirafa de lado:
+![Jirafa1](Practica_03_Personaje/Jirafa01.png)
+Jirafa de frente:
+![Jirafa2](Practica_03_Personaje/Jirafa03.png)
+Jirafa de espaldas:
+![Jirafa3](Practica_03_Personaje/Jirafa04.png)
