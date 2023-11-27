@@ -18,3 +18,13 @@ Jirafa de frente:
 ![Jirafa2](Practica_03_Personaje/Jirafa03.png)
 Jirafa de espaldas:
 ![Jirafa3](Practica_03_Personaje/Jirafa04.png)
+## **Práctica 3: Simulación de colisión**
+Colisión simulada en blender
+Gif de colisión:
+![GIF](Practica_04_Simulacion_Colision/ColisionClip.gif)
+Escenario de la Simulación:
+![escenario](Practica_04_Simulacion_Colision/Colision01.png)
+Durante la colisión:
+![durante](Practica_04_Simulacion_Colision/Colision03.png)
+Fin de la Simulación:
+![durante](Practica_04_Simulacion_Colision/Colision04.png)
