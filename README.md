@@ -19,7 +19,7 @@ Jirafa de frente:
 Jirafa de espaldas:
 ![Jirafa3](Practica_03_Personaje/Jirafa04.png)
 ## **Práctica 4: Simulación de colisión**
-Colisión simulada en blender
+Colisión simulada en blender 
 Gif de colisión:
 ![GIF](Practica_04_Simulacion_Colision/ColisionClip.gif)
 Escenario de la Simulación:
@@ -28,3 +28,13 @@ Durante la colisión:
 ![durante](Practica_04_Simulacion_Colision/Colision03.png)
 Fin de la Simulación:
 ![durante](Practica_04_Simulacion_Colision/Colision04.png)
+
+## **Práctica 5: Simulación de liquido**
+Gif de simulación:
+![GIF](Practica_05_Simulacion_Liquido/FluidoClip.gif)
+Escenario de la Simulación:
+![escenario](Practica_05_Simulacion_Liquido/Fluido01.png)
+Durante la simulación:
+![antes](Practica_05_Simulacion_Liquido/Fluido02.png)
+Fin de la Simulación:
+![durante](Practica_05_Simulacion_Liquido/Fluido03.png)
